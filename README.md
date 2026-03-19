@@ -2,6 +2,8 @@
 
 AI-powered crop disease detection for smallholder farmers.
 
+LIVE HERE: https://crop-advisor-0g6x.onrender.com/
+
 Upload a photo of your plant and get simple, actionable advice in plain English — no agronomist needed.
 
 ## What it does
